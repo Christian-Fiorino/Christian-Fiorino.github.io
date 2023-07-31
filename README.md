@@ -1,8 +1,11 @@
+# Insert Title Here
 How are you?
 
 <div align="left">
     <img src="images/Test Image.png" alt="Testing"/>
 </div><br>
+
+This website is used to test GitHub Pages.
 
 <div align="center">
     <img src="http://ForTheBadge.com/images/badges/made-with-python.svg" alt="Made with Python">
